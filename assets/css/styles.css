@@ -9,7 +9,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #434343;
+  color: #000000;
   background: #dae3e7;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -23,7 +23,7 @@ h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #778492;
+  color: #234366;
 }
 a {
   color: #66224c;
@@ -34,8 +34,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  color: #3a80c7;
+  color: #7d0e1e;
 }
 .btn,
 a.btn {
@@ -65,14 +65,14 @@ a.btn-cta-primary,
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #9e2b44;
+  border: 1px solid #9e2b44;
   color: #fff;
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
-  background: #479fc8;
-  border: 1px solid #479fc8;
+  background: #10668f;
+  border: 1px solid #10668f;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
